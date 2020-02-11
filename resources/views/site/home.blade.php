@@ -23,7 +23,16 @@
                         <div class="dados-content1">
                             <h1 class="titulo-dados-content1"> Desenvolvedor </h1>
                             <h1 class="titulo-dados-content1"> Web </h1>
-                            <h3 class="sobre-dados-content1"> Olá! Eu trabalho como desenvolvedor web, programador PHP e WordPress, na criação de sites e sistemas web. </h3></div>
+                            <h3 class="sobre-dados-content1">
+                                @if (date('H') >= 6 && date('H') <= 12)
+                                    Bom dia!
+                                @elseif(date('H') > 12 && date('H') <= 18)
+                                    Boa Tarde!
+                                @else
+                                    Boa Noite!
+                                @endif
+                            Eu trabalho como desenvolvedor web, programador PHP e WordPress, na criação de sites e sistemas web. </h3>
+                        </div>
                     </div>
                     <div class="container">
                         <div>

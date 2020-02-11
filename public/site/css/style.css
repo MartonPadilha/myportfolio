@@ -163,8 +163,9 @@ h1 {
 }
 
 .btn-secundary:hover {
-    background-color: #BFE6DC;
-    border-radius: 0px;
+    background-color: #007E91;
+    border-radius: 50px;
+    color: #FFF;
 }
 
 .fundo2 {
@@ -636,6 +637,8 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #322f30;
+    border-radius: 10px;
+
 }
 .fa-linkedin:hover {
     background-color: #0073a4;
@@ -648,6 +651,7 @@ ul.social-icons {
     -webkit-transition:.5s;
     transition: .5s;
     background-color: #322f30;
+    border-radius: 10px;
 }
 .fa-github:hover {
     background-color: #5a32a3;
