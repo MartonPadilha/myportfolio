@@ -14,7 +14,8 @@
             <div>
                 <section class="navbar">
                     <div class="container">
-                        <div class="menu"><img alt="logo arthur bl" class="logo" src="assets/images/marton_logo.png" /></div><img alt="imagem de fundo" class="p1-fundo" src="assets/images/fundo1.png" /></div>
+                        <div class="menu"><img alt="Logo Marton" class="logo" src="assets/images/mp_op.jpeg" /></div>
+                        <img alt="imagem de fundo" class="p1-fundo" src="assets/images/fundo1.png" /></div>
                 </section>
             </div>
             <div>
